@@ -1,0 +1,21 @@
+{
+    "name": "bamboo-light-green-color-theme",
+    "displayName": "Bamboo Light Green Color theme",
+    "description": "A green colored light theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.58.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Bamboo Light",
+                "uiTheme": "vs",
+                "path": "./themes/Bamboo Light-color-theme.json"
+            }
+        ]
+    }
+}
