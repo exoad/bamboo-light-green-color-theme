@@ -2,6 +2,8 @@
     "name": "bamboo-light-green-color-theme",
     "displayName": "Bamboo Light Green Color theme",
     "description": "A green colored light theme",
+    "repository": "https://github.com/exoad/bamboo-light-green-color-theme",
+    "publisher":"exoad",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.58.0"
