@@ -3,7 +3,7 @@
     "displayName": "Bamboo Light Green Color theme",
     "description": "A green colored light theme",
     "publisher":"exoad",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "engines": {
         "vscode": "^1.58.0"
     },
