@@ -10,3 +10,7 @@ This is still a work in progress. So some colors might look funky, too bright, o
 ## Suggestions
 
 I am always open to suggestions about how to improve this theme!
+
+## Marketplace
+
+[Click Here](https://marketplace.visualstudio.com/items?itemName=exoad.bamboo-light-green-color-theme&ssr=false#overview)
