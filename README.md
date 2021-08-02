@@ -1,4 +1,5 @@
-# Bamboo Green Color Theme
+
+# ![](/img/logo.png) Bamboo Green Color Theme
 
 This is a simple green color theme for VSCode.
 
